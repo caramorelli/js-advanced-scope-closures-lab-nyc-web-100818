@@ -5,7 +5,7 @@ function produceDrivingRange(num) {
   
 }
 
-function produceTipCalculator() {
+function produceTipCalculator(bill) {
   
 }
 
