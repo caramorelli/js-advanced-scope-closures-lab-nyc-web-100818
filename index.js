@@ -4,3 +4,7 @@
 function produceDrivingRange(num) {
   
 }
+
+function produceTipCalculator() {
+  
+}
